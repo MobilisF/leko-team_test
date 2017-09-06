@@ -1,9 +1,5 @@
-# My simple boilerplate Gulp + Jade + Sass + Foundation 6 + browserSync
+Code is located here:
 
-##Usage:
-
-1. Clone this to your working folder
-
-2. run in console `npm i && bower i`
-
-3. `gulp`
+- src/index.pug
+- src/sass/layouts/index.sass
+- src/js/main.js
